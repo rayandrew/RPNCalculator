@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Calculator";
+}
+
+<h2 class="display-4">Calculator</h2>
+<p class="lead">
+    Built using Reverse Polish Notation that implements Shunting Yard Algorithm
+</p>
+<hr class="my-4">
+<form name="calculator" id="calculator" class="form-horizontal">
+    <div class="form-group">
+      <label class="lead" for="email">Enter your equation :</label>
+      <textarea class="form-control" id="calculation" name="data"></textarea>
+    </div>
+    
+    <p class="lead">
+        <button id="submit" type="submit" value="Calculate" class="btn btn-primary btn-lg">Calculate!</button>
+    </p>
+</form>
+<hr class="my-4">
+<div id="res" class="lead">
+    
+</div>

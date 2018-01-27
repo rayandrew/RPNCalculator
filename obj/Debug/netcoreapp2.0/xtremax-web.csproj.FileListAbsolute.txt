@@ -1,0 +1,10 @@
+/Users/rayandrew/Project/xtremax-web/bin/Debug/netcoreapp2.0/xtremax-web.deps.json
+/Users/rayandrew/Project/xtremax-web/bin/Debug/netcoreapp2.0/xtremax-web.runtimeconfig.json
+/Users/rayandrew/Project/xtremax-web/bin/Debug/netcoreapp2.0/xtremax-web.runtimeconfig.dev.json
+/Users/rayandrew/Project/xtremax-web/bin/Debug/netcoreapp2.0/xtremax-web.dll
+/Users/rayandrew/Project/xtremax-web/bin/Debug/netcoreapp2.0/xtremax-web.pdb
+/Users/rayandrew/Project/xtremax-web/obj/Debug/netcoreapp2.0/xtremax-web.csproj.CoreCompileInputs.cache
+/Users/rayandrew/Project/xtremax-web/obj/Debug/netcoreapp2.0/xtremax-web.AssemblyInfoInputs.cache
+/Users/rayandrew/Project/xtremax-web/obj/Debug/netcoreapp2.0/xtremax-web.AssemblyInfo.cs
+/Users/rayandrew/Project/xtremax-web/obj/Debug/netcoreapp2.0/xtremax-web.dll
+/Users/rayandrew/Project/xtremax-web/obj/Debug/netcoreapp2.0/xtremax-web.pdb
